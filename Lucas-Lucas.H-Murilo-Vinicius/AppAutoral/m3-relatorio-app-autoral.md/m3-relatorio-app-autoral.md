@@ -53,8 +53,9 @@ Em relação aos exemplos da apostila, o aplicativo apresenta melhorias e ideias
 
 ## 🖥 Print das telas do Design
 
-Inserir imagens da **tela de design do aplicativo**.
+Imagem 1 ( Tela 1) 
 <img width="1365" height="639" alt="Screen1QuizBandeiras" src="https://github.com/user-attachments/assets/891535d9-5815-40a6-896d-bc5ff9e80f49" />
+Imagem 2 ( Tela 2 )
 <img width="1362" height="622" alt="Screen2QuizBandeiras" src="https://github.com/user-attachments/assets/a2b5f2a8-d189-4985-be9b-21abff330376" />
 
 ---
@@ -62,7 +63,9 @@ Inserir imagens da **tela de design do aplicativo**.
 ## 🧩 Print das telas dos Blocos
 
 Inserir imagens da **programação em blocos** do aplicativo.
+Imagem 1 ( Blocos 1 )
 <img width="1365" height="634" alt="Blocos1QuizBandeiras" src="https://github.com/user-attachments/assets/37784d06-271c-4a1c-a763-5784b6ef9783" />
+Imagem 2 ( Blocos 2 )
 <img width="1365" height="634" alt="Blocos2QuizBandeiras" src="https://github.com/user-attachments/assets/98669de9-42ef-443d-9af2-d5a3e02abfc5" />
 
 ---
