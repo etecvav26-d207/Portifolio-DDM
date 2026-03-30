@@ -148,7 +148,11 @@ Foi realizada uma melhoria visual no aplicativo por meio da substituição da im
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
 ### Descrição
-Descrever:
+Descrever: O objetivo do site é permitir a personalização visual do fundo da página de forma interativa, oferecendo ao usuário a possibilidade de alterar as cores conforme sua preferência. Além disso, busca demonstrar na prática como mudanças de estilo podem ser aplicadas dinamicamente em uma página web.
+
+O site funciona por meio de botões interativos. Cada um dos quatro botões aplica uma cor diferente ao fundo da página quando clicado, utilizando comandos em JavaScript para alterar o estilo. Já o botão “limpar” restaura a cor original do fundo, retornando a página ao seu estado inicial.
+
+Foram adicionados quatro botões para troca de cores e um botão de limpeza, todos com destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a interação do usuário e deixa a experiência mais dinâmica e agradável.
 
 - objetivo do aplicativo
 - funcionamento
@@ -156,31 +160,52 @@ Descrever:
 
 ### Print das telas do Design
 
+<img width="1919" height="930" alt="Design" src="https://github.com/user-attachments/assets/2807dcda-1eff-4bf1-96c4-cea5aee945d4" />
+
 ### Print das telas dos Blocos
 
----
+<img width="1919" height="920" alt="Blocos" src="https://github.com/user-attachments/assets/a0913795-2785-4afa-a0c8-48207ad6b6e2" />
+
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
-### Descrição
+### Descrição: 
+O objetivo do site é simular o funcionamento de um liquidificador de forma interativa, oferecendo ao usuário uma experiência simples e realista ao clicar em um botão e ouvir o som do aparelho. Além disso, busca demonstrar de forma prática o uso de recursos interativos em páginas web.
+
+O site funciona por meio de interação do usuário. Quando o botão “ligar” é clicado, um evento é acionado (usando JavaScript) que reproduz o som de um liquidificador. Esse áudio toca por alguns segundos e depois para automaticamente, simulando o comportamento de ligar e desligar o aparelho.
+
+Foi adicionado um botão com melhor destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a identificação da ação principal do site, proporcionando uma experiência mais clara e agradável para o usuário.
+
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
+<img width="1916" height="929" alt="Design" src="https://github.com/user-attachments/assets/6af6c3ed-8b6f-4af0-ac2e-11dbbf8f7eef" />
+
 ### Print das telas dos Blocos
 
----
+<img width="1917" height="928" alt="Blocos" src="https://github.com/user-attachments/assets/0f7d5390-e94e-47cf-ac28-0807b72a6de3" />
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
-### Descrição
+### Descrição: 
+O objetivo do site é simular o uso de uma câmera de forma interativa, permitindo ao usuário visualizar a abertura de uma câmera ao clicar em um botão. Além disso, busca demonstrar como elementos visuais podem ser exibidos e ocultados dinamicamente em uma página web.
+
+O site funciona por meio de botões interativos. Ao clicar no botão de “tirar foto”, a imagem da câmera é exibida na tela, simulando sua ativação. Já o botão de “fechar” faz com que a câmera desapareça, ocultando o elemento e retornando à visualização anterior.
+
+Foram adicionados botões com destaque visual para abrir e fechar a câmera, tornando a interface mais clara e organizada. Essa melhoria facilita a interação do usuário e deixa a navegação mais intuitiva.
+
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
+<img width="1917" height="930" alt="Design" src="https://github.com/user-attachments/assets/594f5369-3482-4450-ab79-58e8a102d7f5" />
+
+
 ### Print das telas dos Blocos
 
----
+<img width="1917" height="922" alt="Blocos" src="https://github.com/user-attachments/assets/9f273966-268b-4193-83f5-819cefa2dc7e" />
+
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
 
