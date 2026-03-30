@@ -3,7 +3,7 @@
 ## Modalidade
 Atividade em **dupla**.
 
-## Forma de Entrega
+## Forma de Entrega 
 O trabalho deve ser **entregue no GitHub** do grupo.
 
 As respostas devem ser:
@@ -109,35 +109,41 @@ Modelo de estrutura:
 ---
 
 ## Instituição
-(nome da instituição)
+(Etec Vasco Antônio Venchiarutti)
 
 ## Curso
-(nome do curso)
+(Informática Para Internet)
 
 ## Turma
-(nome ou número da turma)
+(2º D)
 
 ## Autores
-(nome dos alunos da dupla)
-
+(Vinicius Moreira Silva)
+(Murilo Bertani)
 ---
 
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
 ### Descrição
-Descrever:
+Descrever: O aplicativo tem como objetivo demonstrar, de forma simples e prática, conceitos básicos de desenvolvimento e interação com o usuário. Ele apresenta uma interface com a imagem de um planeta para torná-la mais atrativa e utiliza botões que executam ações específicas, permitindo exibir, limpar e encerrar informações na tela. Dessa forma, o projeto serve como um exemplo introdutório de criação de aplicações com funcionalidades básicas.
+
+O aplicativo funciona por meio da interação do usuário com botões na interface. Ao clicar no botão “clique aqui”, o sistema exibe a mensagem “Hello World” na tela. O botão de limpar remove essa mensagem, atualizando a interface. Já o botão de fechar encerra o aplicativo. Cada ação é executada imediatamente após o clique, demonstrando o funcionamento de eventos e respostas dentro de uma aplicação.
+
+Foi realizada uma melhoria visual no aplicativo por meio da substituição da imagem original por uma imagem de melhor qualidade. Essa alteração teve como objetivo tornar a interface mais atrativa e agradável para o usuário, contribuindo para uma melhor experiência visual durante a utilização do aplicativo.
 
 - objetivo do aplicativo
 - como ele funciona
 - o que foi **modificado ou melhorado** em relação ao exemplo da apostila
 
 ### Print das telas do Design
-Inserir imagens do **Design do aplicativo**.
+
+<img width="1919" height="946" alt="Design-app-inventor-1" src="https://github.com/user-attachments/assets/e7cf9c7b-3cbf-487e-9854-8c2b942747ea" />
+
 
 ### Print das telas dos Blocos
-Inserir imagens dos **blocos de programação**.
 
----
+<img width="1919" height="933" alt="Blocos-app-inventor-1" src="https://github.com/user-attachments/assets/f13da050-814f-4882-81e7-5832adad4a49" />
+
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
