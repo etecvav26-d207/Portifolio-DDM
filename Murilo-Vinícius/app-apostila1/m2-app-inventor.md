@@ -221,13 +221,23 @@ Descrever objetivo, funcionamento e modificações realizadas.
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
 ### Descrição
+O objetivo do site é permitir que o usuário insira seu nome e o visualize na tela de forma interativa, criando uma experiência personalizada. Além disso, busca demonstrar como capturar, processar e exibir dados digitados pelo usuário em uma página web, evidenciando o uso de interatividade e manipulação de elementos em tempo real.
+
+O site funciona por meio de um campo de texto e um botão. O usuário digita seu nome na aba de entrada e, ao clicar no botão, um comando em JavaScript captura o valor digitado e o exibe na tela, geralmente em forma de texto.
+
+Foi adicionado um campo de entrada de texto junto a um botão com destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a interação do usuário e proporciona uma experiência mais clara e dinâmica.
+
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
+<img width="1919" height="935" alt="Design" src="https://github.com/user-attachments/assets/bc908c5f-2505-4520-a97c-e93757356940" />
+
+
 ### Print das telas dos Blocos
 
----
+<img width="1916" height="928" alt="Blocos" src="https://github.com/user-attachments/assets/2c7ac629-526c-46bc-9ba5-789fafa58ae2" />
+
 
 # 📌 Recomendações
 
