@@ -209,14 +209,30 @@ Descrever objetivo, funcionamento e modificações realizadas.
 
 # Projeto 5 – Quinto Aplicativo (pg. 69)
 
-### Descrição
+### Descrição:
+O objetivo do site é apresentar uma navegação entre diferentes telas de forma interativa, permitindo ao usuário explorar conteúdos distintos em cada seção. Além disso, busca demonstrar como funciona a troca de páginas ou seções dentro de um site, utilizando botões para guiar a navegação.
+
+O site possui três telas. Na tela inicial, existem dois botões que levam o usuário para a tela 1 e para a tela 2. Na tela 1, há um botão para voltar à tela inicial e uma imagem do Naruto exibida na página. Já na tela 2, também é apresentado um conteúdo visual, com a imagem de um cachorro.
+
+Foi adicionada uma imagem na tela 1, tornando o conteúdo mais visual e atraente. Essa melhoria não apenas enriquece a estética da página, mas também ajuda o usuário a identificar melhor o conteúdo da tela. Além disso, a presença da imagem torna a navegação mais envolvente e interativa, proporcionando uma experiência mais agradável e interessante.
+
 Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
+<img width="1919" height="932" alt="Design" src="https://github.com/user-attachments/assets/f94d5b79-c290-4fb0-bc12-34e894f0cf39" />
+
+<img width="1914" height="944" alt="Design (2)" src="https://github.com/user-attachments/assets/2c980cfc-d8fb-4cd7-9a43-13c5be522455" />
+
+<img width="1919" height="934" alt="Design (3)" src="https://github.com/user-attachments/assets/60d2e829-aeb9-4599-bcb7-cc0972465892" />
+
 ### Print das telas dos Blocos
 
----
+<img width="1919" height="928" alt="Blocos" src="https://github.com/user-attachments/assets/5626ded0-e6be-42bb-a176-d2835e8465e1" />
+
+<img width="1919" height="933" alt="Blocos (2)" src="https://github.com/user-attachments/assets/547ed6f1-9cbf-4b07-9725-2b15e858cb9c" />
+
+<img width="1919" height="934" alt="Blocos (3)" src="https://github.com/user-attachments/assets/2b0d03a0-cb44-41a0-b889-ed8fa897a0bc" />
 
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
