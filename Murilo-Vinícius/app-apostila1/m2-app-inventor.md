@@ -21,9 +21,6 @@ O aplicativo funciona por meio da interação do usuário com botões na interfa
 
 Foi realizada uma melhoria visual no aplicativo por meio da substituição da imagem original por uma imagem de melhor qualidade. Essa alteração teve como objetivo tornar a interface mais atrativa e agradável para o usuário, contribuindo para uma melhor experiência visual durante a utilização do aplicativo.
 
-- objetivo do aplicativo
-- como ele funciona
-- o que foi **modificado ou melhorado** em relação ao exemplo da apostila
 
 ### Print das telas do Design
 
@@ -44,9 +41,6 @@ O site funciona por meio de botões interativos. Cada um dos quatro botões apli
 
 Foram adicionados quatro botões para troca de cores e um botão de limpeza, todos com destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a interação do usuário e deixa a experiência mais dinâmica e agradável.
 
-- objetivo do aplicativo
-- funcionamento
-- alterações feitas em relação à apostila
 
 ### Print das telas do Design
 
@@ -66,7 +60,6 @@ O site funciona por meio de interação do usuário. Quando o botão “ligar”
 
 Foi adicionado um botão com melhor destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a identificação da ação principal do site, proporcionando uma experiência mais clara e agradável para o usuário.
 
-Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
@@ -84,8 +77,6 @@ O objetivo do site é simular o uso de uma câmera de forma interativa, permitin
 O site funciona por meio de botões interativos. Ao clicar no botão de “tirar foto”, a imagem da câmera é exibida na tela, simulando sua ativação. Já o botão de “fechar” faz com que a câmera desapareça, ocultando o elemento e retornando à visualização anterior.
 
 Foram adicionados botões com destaque visual para abrir e fechar a câmera, tornando a interface mais clara e organizada. Essa melhoria facilita a interação do usuário e deixa a navegação mais intuitiva.
-
-Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
@@ -105,8 +96,6 @@ O objetivo do site é apresentar uma navegação entre diferentes telas de forma
 O site possui três telas. Na tela inicial, existem dois botões que levam o usuário para a tela 1 e para a tela 2. Na tela 1, há um botão para voltar à tela inicial e uma imagem do Naruto exibida na página. Já na tela 2, também é apresentado um conteúdo visual, com a imagem de um cachorro.
 
 Foi adicionada uma imagem na tela 1, tornando o conteúdo mais visual e atraente. Essa melhoria não apenas enriquece a estética da página, mas também ajuda o usuário a identificar melhor o conteúdo da tela. Além disso, a presença da imagem torna a navegação mais envolvente e interativa, proporcionando uma experiência mais agradável e interessante.
-
-Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
@@ -132,8 +121,6 @@ O objetivo do site é permitir que o usuário insira seu nome e o visualize na t
 O site funciona por meio de um campo de texto e um botão. O usuário digita seu nome na aba de entrada e, ao clicar no botão, um comando em JavaScript captura o valor digitado e o exibe na tela, geralmente em forma de texto.
 
 Foi adicionado um campo de entrada de texto junto a um botão com destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a interação do usuário e proporciona uma experiência mais clara e dinâmica.
-
-Descrever objetivo, funcionamento e modificações realizadas.
 
 ### Print das telas do Design
 
