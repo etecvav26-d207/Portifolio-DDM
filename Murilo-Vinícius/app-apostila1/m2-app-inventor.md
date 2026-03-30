@@ -119,8 +119,8 @@ Modelo de estrutura:
 
 ## Autores
 (Vinicius Moreira Silva)
-(Murilo Bertani)
----
+(Murilo Bertani )
+
 
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
