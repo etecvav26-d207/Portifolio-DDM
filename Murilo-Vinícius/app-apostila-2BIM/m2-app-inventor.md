@@ -1,3 +1,4 @@
+
 # 📝 Estrutura do Relatório - ( Apostila 1 e 2 ; Aplicativos 1, 2, 3 e 4; - 2 Bimestre; - DDM )
 
 ## Instituição
@@ -26,14 +27,14 @@ Foi realizada uma melhoria visual no aplicativo por meio da substituição da im
 
 ### Print das telas do Design
 
-
+<img width="1919" height="943" alt="Captura de tela 2026-05-21 203654" src="https://github.com/user-attachments/assets/7e0a1770-3961-44b9-9770-b4bdde39d93f" />
 
 ### Print das telas dos Blocos
 
-
-
+<img width="1919" height="939" alt="Captura de tela 2026-05-21 203717" src="https://github.com/user-attachments/assets/bb721cea-ac7c-40bc-b9c7-267f726d65a6" />
 
 # Projeto 2 – Segundo Aplicativo 
+
 
 ### Descrição
 Descrever: O objetivo do site é permitir a personalização visual do fundo da página de forma interativa, oferecendo ao usuário a possibilidade de alterar as cores conforme sua preferência. Além disso, busca demonstrar na prática como mudanças de estilo podem ser aplicadas dinamicamente em uma página web.
