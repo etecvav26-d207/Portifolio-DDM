@@ -1,4 +1,3 @@
-
 # 📝 Estrutura do Relatório - ( Apostila 1 e 2 ; Aplicativos 1, 2, 3 e 4; - 2 Bimestre; - DDM )
 
 ## Instituição
@@ -46,11 +45,11 @@ Foram adicionados quatro botões para troca de cores e um botão de limpeza, tod
 
 ### Print das telas do Design
 
-
+<img width="1919" height="936" alt="Captura de tela 2026-05-21 204943" src="https://github.com/user-attachments/assets/db483f2e-d12e-4e63-bfb7-bd424d78fd3a" />
 
 ### Print das telas dos Blocos
 
-
+<img width="1919" height="940" alt="Captura de tela 2026-05-21 204954" src="https://github.com/user-attachments/assets/f86da724-3c10-4289-880f-630b49eddf21" />
 
 # Projeto 3 – Terceiro Aplicativo 
 
@@ -64,11 +63,11 @@ Foi adicionado um botão com melhor destaque visual, tornando a interface mais o
 
 ### Print das telas do Design
 
-
+<img width="1919" height="944" alt="Captura de tela 2026-05-21 205013" src="https://github.com/user-attachments/assets/09ce1fdd-3cfe-4855-94cc-3c3a5754b174" />
 
 ### Print das telas dos Blocos
 
-
+<img width="1919" height="933" alt="Captura de tela 2026-05-21 205022" src="https://github.com/user-attachments/assets/14ead255-efc4-4c5f-909f-f1ba79466acd" />
 
 # Projeto 4 – Quarto Aplicativo 
 
@@ -79,11 +78,11 @@ O site funciona por meio de botões interativos. Ao clicar no botão de “tirar
 
 Foram adicionados botões com destaque visual para abrir e fechar a câmera, tornando a interface mais clara e organizada. Essa melhoria facilita a interação do usuário e deixa a navegação mais intuitiva.
 
+
 ### Print das telas do Design
 
-
+<img width="1919" height="934" alt="Captura de tela 2026-05-21 205041" src="https://github.com/user-attachments/assets/d77037a4-ea9f-4160-be53-27caa6a2c32c" />
 
 ### Print das telas dos Blocos
 
-
-
+<img width="1919" height="940" alt="Captura de tela 2026-05-21 205438" src="https://github.com/user-attachments/assets/5565ab33-10a5-4203-8151-22f43c01c61c" />
