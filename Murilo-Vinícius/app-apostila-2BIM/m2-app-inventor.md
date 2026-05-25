@@ -31,7 +31,7 @@ Neste aplicativo utilizamos componentes como Button, Image e Notifier dentro do 
 
 
 ### Descrição
-Neste aplicativo utilizamos componentes como Button, Image e Notifier dentro do MIT App Inventor. Foi configurado um botão principal que, ao ser clicado através do bloco when Button.Click, executa a ação de abrir um link externo utilizando o componente ActivityStarter ou WebViewer, direcionando o usuário automaticamente para um vídeo online. Também foram adicionadas imagens e elementos visuais para melhorar a interface e facilitar a navegação do usuário.
+Neste projeto adicionamos componentes como Button, TextBox, Label e o componente não visível EmailPicker ou integração com intent de e-mail do Android no MIT App Inventor. O aplicativo foi programado para que, ao pressionar o botão, seja executada uma ação de envio de e-mail para um endereço previamente definido. Foram utilizados blocos de programação para preencher automaticamente destinatário, simplificando o processo de comunicação dentro do aplicativo.
 
 
 ### Print das telas do Design
