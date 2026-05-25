@@ -36,11 +36,7 @@ Foi realizada uma melhoria visual no aplicativo por meio da substituição da im
 
 
 ### Descrição
-Descrever: O objetivo do site é permitir a personalização visual do fundo da página de forma interativa, oferecendo ao usuário a possibilidade de alterar as cores conforme sua preferência. Além disso, busca demonstrar na prática como mudanças de estilo podem ser aplicadas dinamicamente em uma página web.
-
-O site funciona por meio de botões interativos. Cada um dos quatro botões aplica uma cor diferente ao fundo da página quando clicado, utilizando comandos em JavaScript para alterar o estilo. Já o botão “limpar” restaura a cor original do fundo, retornando a página ao seu estado inicial.
-
-Foram adicionados quatro botões para troca de cores e um botão de limpeza, todos com destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a interação do usuário e deixa a experiência mais dinâmica e agradável.
+Neste aplicativo utilizamos componentes como Button, Image e Notifier dentro do MIT App Inventor. Foi configurado um botão principal que, ao ser clicado através do bloco when Button.Click, executa a ação de abrir um link externo utilizando o componente ActivityStarter ou WebViewer, direcionando o usuário automaticamente para um vídeo online. Também foram adicionadas imagens e elementos visuais para melhorar a interface e facilitar a navegação do usuário.
 
 
 ### Print das telas do Design
