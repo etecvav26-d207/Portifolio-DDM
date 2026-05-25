@@ -59,13 +59,7 @@ Neste aplicativo utilizamos componentes como Map, Marker, Image, Button e Label 
 # Projeto 4 – Quarto Aplicativo 
 
 ### Descrição: 
-O objetivo do site é simular o uso de uma câmera de forma interativa, permitindo ao usuário visualizar a abertura de uma câmera ao clicar em um botão. Além disso, busca demonstrar como elementos visuais podem ser exibidos e ocultados dinamicamente em uma página web.
-
-O site funciona por meio de botões interativos. Ao clicar no botão de “tirar foto”, a imagem da câmera é exibida na tela, simulando sua ativação. Já o botão de “fechar” faz com que a câmera desapareça, ocultando o elemento e retornando à visualização anterior.
-
-Foram adicionados botões com destaque visual para abrir e fechar a câmera, tornando a interface mais clara e organizada. Essa melhoria facilita a interação do usuário e deixa a navegação mais intuitiva.
-
-
+Neste projeto adicionamos componentes como Button, Image, HorizontalArrangement, TextBox no MIT App Inventor. O aplicativo foi estilizado utilizando imagens e referências visuais do meme “Mbappé Dictator”, criando uma interface personalizada e humorística. Foi configurado um número de telefone pré-definido e, através do evento when Button.Click, o aplicativo inicia automaticamente uma chamada de vídeo utilizando recursos do aparelho. Também foram aplicadas customizações visuais, como imagens temáticas, cores e organização de layout para tornar a experiência mais dinâmica e divertida.
 ### Print das telas do Design
 
 <img width="1919" height="934" alt="Captura de tela 2026-05-21 205041" src="https://github.com/user-attachments/assets/d77037a4-ea9f-4160-be53-27caa6a2c32c" />
