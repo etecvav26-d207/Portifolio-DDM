@@ -45,11 +45,7 @@ Neste projeto adicionamos componentes como Button, TextBox, Label e o componente
 # Projeto 3 – Terceiro Aplicativo 
 
 ### Descrição: 
-O objetivo do site é simular o funcionamento de um liquidificador de forma interativa, oferecendo ao usuário uma experiência simples e realista ao clicar em um botão e ouvir o som do aparelho. Além disso, busca demonstrar de forma prática o uso de recursos interativos em páginas web.
-
-O site funciona por meio de interação do usuário. Quando o botão “ligar” é clicado, um evento é acionado (usando JavaScript) que reproduz o som de um liquidificador. Esse áudio toca por alguns segundos e depois para automaticamente, simulando o comportamento de ligar e desligar o aparelho.
-
-Foi adicionado um botão com melhor destaque visual, tornando a interface mais organizada e intuitiva. Essa melhoria facilita a identificação da ação principal do site, proporcionando uma experiência mais clara e agradável para o usuário.
+Neste aplicativo utilizamos componentes como Map, Marker, Image, Button e Label no MIT App Inventor. O projeto foi desenvolvido para abrir um mapa interativo contendo diversas informações e detalhes sobre o estádio do Paulista Futebol Clube. Foram adicionados marcadores de localização, descrições, imagens ilustrativas e botões de navegação, permitindo ao usuário visualizar informações importantes sobre o local de forma organizada e intuitiva.
 
 
 ### Print das telas do Design
