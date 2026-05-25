@@ -17,12 +17,7 @@
 # Projeto 1 – Primeiro Aplicativo
 
 ### Descrição
-Descrever: O aplicativo tem como objetivo demonstrar, de forma simples e prática, conceitos básicos de desenvolvimento e interação com o usuário. Ele apresenta uma interface com a imagem de um planeta para torná-la mais atrativa e utiliza botões que executam ações específicas, permitindo exibir, limpar e encerrar informações na tela. Dessa forma, o projeto serve como um exemplo introdutório de criação de aplicações com funcionalidades básicas.
-
-O aplicativo funciona por meio da interação do usuário com botões na interface. Ao clicar no botão “clique aqui”, o sistema exibe a mensagem “Hello World” na tela. O botão de limpar remove essa mensagem, atualizando a interface. Já o botão de fechar encerra o aplicativo. Cada ação é executada imediatamente após o clique, demonstrando o funcionamento de eventos e respostas dentro de uma aplicação.
-
-Foi realizada uma melhoria visual no aplicativo por meio da substituição da imagem original por uma imagem de melhor qualidade. Essa alteração teve como objetivo tornar a interface mais atrativa e agradável para o usuário, contribuindo para uma melhor experiência visual durante a utilização do aplicativo.
-
+Neste aplicativo utilizamos componentes como Button, Image e Notifier dentro do MIT App Inventor. Foi configurado um botão principal que, ao ser clicado através do bloco when Button.Click, executa a ação de abrir um link externo utilizando o componente ActivityStarter ou WebViewer, direcionando o usuário automaticamente para um vídeo online. Também foram adicionadas imagens e elementos visuais para melhorar a interface e facilitar a navegação do usuário.
 
 ### Print das telas do Design
 
