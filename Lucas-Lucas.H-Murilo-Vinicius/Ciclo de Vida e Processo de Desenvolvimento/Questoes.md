@@ -30,7 +30,7 @@ Também é importante pedir para outras pessoas testarem, pois elas podem encont
 
 ## Questão 3 — Mudanças fazem parte do desenvolvimento?
 
-**Discordamos da afirmação.**
+Discordamos:
 
 Mesmo que todas as funções estejam funcionando, o aplicativo pode ser difícil de usar. Se os usuários não entendem a interface, é necessário melhorar os botões, textos, organização das telas ou instruções.
 
@@ -51,8 +51,7 @@ Assim, não é necessário começar o projeto novamente.
 
 ## Questão 5 — Quando termina o desenvolvimento?
 
-**Discordamos da afirmação.**
-
+Discordamos:
 O desenvolvimento de um aplicativo não termina definitivamente quando a primeira versão é entregue. Depois disso começa uma etapa importante: a **manutenção**.
 
 Podem surgir erros, problemas de segurança, pedidos de novas funções ou melhorias na interface. Por isso, novas versões podem ser criadas para corrigir problemas e melhorar o aplicativo.
